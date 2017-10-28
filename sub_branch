@@ -1,1 +1,3 @@
 This is the sub branch from master branch, and we are going to link it with the master branch.
+Editing in sub branch.
+To visualize this, let’s assume that you have a directory containing three files, and you stage them all and commit. Staging the files checksums each one (the SHA-1 hash we mentioned in Chapter 1), stores that version of the file in the Git repository (Git refers to them as blobs), and adds that checksum to the staging area:
